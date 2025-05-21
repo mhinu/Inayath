@@ -1,5 +1,6 @@
 # Inayath
 
+RCB is IPL team
 RCB is winner of IPL 2025
 
 
